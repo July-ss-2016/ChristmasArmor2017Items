@@ -1,0 +1,7 @@
+name: ChristmasArmor2017Items
+main: vip.creeper.mcserverplugins.christmasarmor2017items.ChristmasArmor2017Items
+author: July_ss
+version: 1.0.0
+depend: [LoreArmorEquipEvent, EffectLib]
+commands:
+  cai2017:
